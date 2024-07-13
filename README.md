@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **EarnIt (Android App)**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://adityabodewar.000webhostapp.com/](https://adityabodewar.000webhostapp.com/)
 
-- 💬 Ask me about **WebD, Android, Blockchain**
+- 💬 Ask me about **WebD, Fullstack, Android**
 
 - 📫 How to reach me **abodewar253@gmail.com**
 
