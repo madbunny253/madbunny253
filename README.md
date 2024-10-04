@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **Inventory Management AI**
 
-- 🌱 I’m currently learning **Cloud Practices**
-
-- 👨‍💻 All of my projects are available at [https://adityabodewar.000webhostapp.com/](https://adityabodewar.000webhostapp.com/)
+- 🌱 I’m currently learning **Cloud Practices and Advanced Frontend Dev**
 
 - 💬 Ask me about **webD-frontend, cloud-AWS**
 
